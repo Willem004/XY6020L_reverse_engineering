@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_Artery_AT32F4")(type "KiCad")(uri "${KIPRJMOD}/MCU_Artery_AT32F4.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_Amplifier_Operational")(type "KiCad")(uri "${KIPRJMOD}/Custom_Amplifier_Operational.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_Regulator_Switching")(type "KiCad")(uri "${KIPRJMOD}/Custom_Regulator_Switching.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_Transistor_FET")(type "KiCad")(uri "${KIPRJMOD}/Custom_Transistor_FET.kicad_sym")(options "")(descr ""))
+)

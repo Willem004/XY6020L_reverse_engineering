@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "c2e56192-4efa-4dc4-ab47-316d6c637c20")
+	(uuid "749a37e9-6559-4ffa-89cc-ed2fa0d3982c")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Amplifier_Operational:LM321"
@@ -1914,7 +1914,7 @@
 		)
 		(uuid "fdf0417b-4f65-48b6-8caa-cb6210e591e0")
 	)
-	(global_label "PA8"
+	(global_label "PA4"
 		(shape input)
 		(at 266.7 76.2 0)
 		(fields_autoplaced yes)
@@ -1936,7 +1936,7 @@
 			)
 		)
 	)
-	(global_label "PA10"
+	(global_label "PA6"
 		(shape input)
 		(at 181.61 25.4 180)
 		(fields_autoplaced yes)
@@ -1948,7 +1948,7 @@
 		)
 		(uuid "4fd8d3f4-a682-4dc1-ab25-2c3010d9cdfa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 173.8472 25.4 0)
+			(at 175.0567 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1958,7 +1958,7 @@
 			)
 		)
 	)
-	(global_label "PA9"
+	(global_label "PA5"
 		(shape input)
 		(at 218.44 48.26 180)
 		(fields_autoplaced yes)

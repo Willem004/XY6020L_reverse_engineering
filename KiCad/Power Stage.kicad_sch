@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "375fc242-7067-4225-a250-63b5aa756631")
+	(uuid "0878c18d-f049-4d58-a7cb-f3da8487df8e")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Custom_Regulator_Switching:EG1163"

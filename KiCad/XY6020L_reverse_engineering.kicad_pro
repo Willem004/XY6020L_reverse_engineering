@@ -386,6 +386,14 @@
     [
       "0ab74af2-819c-4eb2-8733-80c6d68f7c5e",
       "Root"
+    ],
+    [
+      "a7240453-6092-4a01-a601-ed03486e358a",
+      "Power Stage"
+    ],
+    [
+      "79f99e88-f325-44a3-8292-6bd36980df23",
+      "Analog feedback"
     ]
   ],
   "text_variables": {}
